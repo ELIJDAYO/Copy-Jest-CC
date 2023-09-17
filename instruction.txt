@@ -10,3 +10,11 @@ run "node sum" if you want to check sum output in terminal
 
 docs about the matchers
     https://jestjs.io/docs/using-matchers
+
+
+npm install axios
+
+cd 02-async, to run async
+    node async
+to test async
+    npm run test async
