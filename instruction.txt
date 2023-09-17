@@ -1,5 +1,12 @@
+https://www.youtube.com/watch?v=ajiAl5UNzBU&list=LL&index=10&t=4s
+
 npm init -y, npm install --save-dev jest
 
 go to package.json and change "scripts"/"test" to "jest"
 then in terminal run
     npm run test
+
+run "node sum" if you want to check sum output in terminal
+
+docs about the matchers
+    https://jestjs.io/docs/using-matchers
