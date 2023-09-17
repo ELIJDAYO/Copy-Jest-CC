@@ -1,0 +1,5 @@
+npm init -y, npm install --save-dev jest
+
+go to package.json and change "scripts"/"test" to "jest"
+then in terminal run
+    npm run test
